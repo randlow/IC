@@ -1,0 +1,48 @@
+@import url("theme.css");
+
+.wy-nav-content {
+	max-width: none;
+}
+
+.wy-side-nav-search {
+	background-color: #bfa24e;
+}
+
+.wy-side-nav-search input[type="text"] {
+	border-color: #a3a3a3;
+}
+
+.wy-menu-vertical a {
+	color: #fff;
+}
+
+.wy-menu-vertical a:hover {
+	background-color: inherit;
+	color: #bfa24e;
+}
+
+.wy-nav-side {
+	background-color: #252525;
+}
+
+.wy-nav-content a {
+	color: #404040;
+	border-bottom: 1px dotted #A2A2A2;
+}
+
+.wy-nav-content a:hover {
+	color: #bfa24e;
+}
+
+.wy-breadcrumbs li a {
+	padding-bottom: 0;
+	margin-bottom: 5px;
+}
+
+footer {
+	display: none;
+}
+
+.bk-button-bar-list .bk-toolbar-button.active {
+	border-bottom: 2px solid #bfa24e;
+}
